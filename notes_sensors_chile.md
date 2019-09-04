@@ -10,9 +10,9 @@ Arduino:
 Various sensors:
 
 *	aliexpress
-*	[altronics.cl](altronics.cl) - online only. They have a [pressure sensor for 9500CLP](https://altronics.cl/instrumentacion-industrial/medicion-presion/sensor-presion-hk1100c) on an analog signal: 0 - 1.2MPa. A [temperature sensor](https://altronics.cl/sensor-sonda-temperatura-ds18b20) . This page has links for how to use these sensors.
+*	[altronics.cl](https://altronics.cl) - online only. They have a [pressure sensor for 9500CLP](https://altronics.cl/instrumentacion-industrial/medicion-presion/sensor-presion-hk1100c) on an analog signal: 0 - 1.2MPa. A [temperature sensor](https://altronics.cl/sensor-sonda-temperatura-ds18b20) . This page has links for how to use these sensors.
 *	[Tienda 8](tienda8.cl) - in Concepción. They have some sensors: barometric pressure, carbon monoxide, temperature.
-
+*	Real time clock DS3231 [Max Electronica](http://www.maxelectronica.cl/45-rtc-memorias)
 
 ***
 
@@ -30,3 +30,29 @@ The OpenCTD project
 
 ***
 
+
+Things I need for an OpenCTD: 
+
+arduino and logger. If not the adafruit, maybe 
+
+Nano logger [here](http://www.maxelectronica.cl/shield-arduino/555-shield-arduino-nano-data-logging-con-rtc-ds1307-y-slot-micro-sd.html) with the [Nano](http://www.maxelectronica.cl/tarjetas-arduino/397-arduino-nano-atmega328-version-de-pines-sin-soldar.html), the real time clock (http://www.maxelectronica.cl/rtc-memorias/57-modulo-i2c-rtc-ds3231-con-memoria-eeprom-atmel24c32-y-bateria-incluida.html) 
+
+Prototype board [on MCI electronics](https://www.mcielectronics.cl/en_US/shop/product/prototype-pcb-compatible-con-modulos-xbee-23409?search=prototype+pcb)
+
+
+
+***
+UK supplier of Adafruit
+Pimeroni.com: 
+
+Product image	Description	Quantity	Price
+
+Adafruit Perma-Proto - pack of 3
+Quarter size
+1	£6.50
+
+DS3231 Precision RTC FeatherWing - RTC Add-on For Feather Boards
+1	£10.75
+
+Adafruit Feather M0 Adalogger
+1	£15.25
