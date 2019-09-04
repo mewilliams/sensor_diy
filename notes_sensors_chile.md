@@ -25,6 +25,16 @@ Specifics from that site, [How to Build an Arduino Data Logger](https://thecavep
 [Open wave height logger](https://lukemiller.org/index.php/2014/08/open-wave-height-logger/) and the [OWHL github page](https://github.com/millerlp/OWHL)
 
 
+***
+On temperature sensors, from the Cave Pearl Project comments:
+
+>To date I have been working with I2C breakouts (Sparkfuns tmp102 & Adafruits MCP9808) and one-wire DS18b20’s. All give you 0.0625C resolution but the MCP9808 gives a reasonably decent ±0.25 accuracy. The DS18s take quite a bit of calibration because there is a large amount of quality variation, but they have the strength that you can hook so many of them to very long wires. This multi-drop aspect of the DS18B20’s keeps bringing me back to that sensor over and over again. To be honest, all of them are ‘just OK’ as most of the caves we work in have less than 1 degree Celsius of variation all year. But what I really want for the cave work is an affordable sensor that can give me ±0.1C accuracy and 0.01C resolution. RTDs and Thermistors can deliver that but I have not had a chance to play with them yet.
+
+>[Update] In 2017 I got the thermistors working at high resolution with better than ±0.2C accuracy .
+***
+
+
+
 The OpenCTD project
 
 
@@ -57,3 +67,6 @@ DS3231 Precision RTC FeatherWing - RTC Add-on For Feather Boards
 
 Adafruit Feather M0 Adalogger
 1	£15.25
+
+
+
