@@ -22,6 +22,7 @@ Some to check out:
 
 [The Cave Pearl Project - underwater arduino data loggers](https://thecavepearlproject.org) in general.
 Specifics from that site, [How to Build an Arduino Data Logger](https://thecavepearlproject.org/how-to-build-an-arduino-data-logger/) 
+[Open wave height logger](https://lukemiller.org/index.php/2014/08/open-wave-height-logger/) and the [OWHL github page](https://github.com/millerlp/OWHL)
 
 
 The OpenCTD project
