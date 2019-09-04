@@ -13,6 +13,7 @@ Various sensors:
 *	[altronics.cl](https://altronics.cl) - online only. They have a [pressure sensor for 9500CLP](https://altronics.cl/instrumentacion-industrial/medicion-presion/sensor-presion-hk1100c) on an analog signal: 0 - 1.2MPa. A [temperature sensor](https://altronics.cl/sensor-sonda-temperatura-ds18b20) . This page has links for how to use these sensors.
 *	[Tienda 8](tienda8.cl) - in Concepción. They have some sensors: barometric pressure, carbon monoxide, temperature.
 *	Real time clock DS3231 [Max Electronica](http://www.maxelectronica.cl/45-rtc-memorias)
+*	COLOMBIAN company: pressure sensor at [Didacticas electronicas](https://www.didacticaselectronicas.com/index.php/sensores/presion-atm/sensor-de-presión-ms5803-14ba-barómetro-7190-detail)
 
 ***
 
@@ -56,3 +57,11 @@ DS3231 Precision RTC FeatherWing - RTC Add-on For Feather Boards
 
 Adafruit Feather M0 Adalogger
 1	£15.25
+
+***
+
+Pressure sensor UK https://coolcomponents.co.uk/search?type=article%2Cpage%2Cproduct&q=MS5803-14BA* (5% discount if give email address)
+
+***
+
+Soldering iron in Spanish: cautín. 
