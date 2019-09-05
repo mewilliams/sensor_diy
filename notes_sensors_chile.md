@@ -83,3 +83,30 @@ Pressure sensor UK https://coolcomponents.co.uk/search?type=article%2Cpage%2Cpro
 
 ***
 
+waterproof sealant: Coax-seal [on amazon](https://www.amazon.com/Coax-Seal-Moisture-Proof-Sealing/dp/B00075J4J6). Can we find this in Chile?
+
+***
+
+
+
+
+**Conductivity sensors**
+
+DF Robot has two conductivity sensors for Arduino: [K=10](https://www.dfrobot.com/product-1797.html) and [K=1](https://www.dfrobot.com/product-1123.html), but from their specs the K=10 version is OK for 10 - 100 mS/cm and the K=1 version for 0-20mS/cm (recommended for 1-15mS/cm). Range necessary is approximately 0 - 36.2mS/cm (approx. 35 PSU at T=8C). The K=10 starts off about 8PSU and the K=1 cuts off below 15PSU for those temperature values. Measurement Accuracy: ±5% F.S. for both cases. 
+
+The Atlas Scientific K1.0: [datasheet here](https://www.atlas-scientific.com/_files/_datasheets/_probe/EC_K_1.0_probe.pdf) has an accuracy ±2%
+
+
+***
+
+**Conductivity standards**
+
+[Hanna Chile](https://www.hannachile.com/productos/categoria/Soluciones-de-ConductividadTDS)
+
+[Yalitech](http://www.yalitech.cl/ph-redox-y-conductividad/soluciones-de-calibracion)
+
+[Vimaroni](http://www.vimaroni.cl/home/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=738&virtuemart_category_id=48)
+
+**Turbidity standards**
+
+See Hanna Chile link in Conducitivy standards above, I think (for TDS, but not in NTU).
