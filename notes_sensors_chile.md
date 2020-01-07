@@ -30,7 +30,7 @@ Some to check out:
 [The Cave Pearl Project - underwater arduino data loggers](https://thecavepearlproject.org) in general.
 Specifics from that site, [How to Build an Arduino Data Logger](https://thecavepearlproject.org/how-to-build-an-arduino-data-logger/) 
 [Open wave height logger](https://lukemiller.org/index.php/2014/08/open-wave-height-logger/) and the [OWHL github page](https://github.com/millerlp/OWHL)
-[Arduino turbidity sensor](https://www.teachmemicro.com/arduino-turbidity-sensor/), which uses the [DF Robots turbidity sensor](https://www.dfrobot.com/wiki/index.php/Turbidity_sensor_SKU:_SEN0189)
+[Arduino turbidity sensor](https://www.teachmemicro.com/arduino-turbidity-sensor/), which uses the [DF Robots turbidity sensor](https://www.dfrobot.com/wiki/index.php/Turbidity_sensor_SKU:_SEN0189) - there is a [Public Lab post on how to test it](https://publiclab.org/notes/wmacfarl/10-12-2019/testing-of-df-robot-turbidity-sensor)
 
 
 
