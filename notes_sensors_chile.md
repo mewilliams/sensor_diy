@@ -91,6 +91,7 @@ waterproof sealant: Coax-seal [on amazon](https://www.amazon.com/Coax-Seal-Moist
 
 An alternate (faster) temperature sensor from Blue Robotics: [Celsius sensor](https://bluerobotics.com/store/sensors-sonars-cameras/sensors/celsius-sensor-r1/) (or [this version without the waterproof housing](https://bluerobotics.com/store/sensors-sonars-cameras/sensors/celsius-sensor-pcb-r1/))
 
+The Chilean distributor for Blue Robitics is adentu.cl
 
 
 **Conductivity sensors**
