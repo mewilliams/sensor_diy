@@ -6,7 +6,7 @@ Hay varios simuladores de Arduino, y varios [blogs](https://tutorial45.com/ardui
 
 Algunos son: [PaulWare’s Arduino Simulator](https://github.com/Paulware/ArduinoDebugger)
 
-[LTSpice Arduino Simulator](https://www.analog.com/en/design-center/design-tools-and-calculators.html#) que funciona por Windows y Mac
+[LTSpice Arduino Simulator](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) que funciona por Windows y Mac
 
 [Uno Arduino Sim(ulator)](https://www.sites.google.com/site/unoardusim/) es un simulador de Arduino Uno - se puede probar programas de Arduino Uno sin el instrumento o los sensores. Es una aplicación para Windows.
 
