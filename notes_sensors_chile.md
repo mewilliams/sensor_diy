@@ -22,6 +22,16 @@ Various sensors:
 *	Real time clock DS3231 [Max Electronica](http://www.maxelectronica.cl/45-rtc-memorias)
 *	COLOMBIAN company: pressure sensor at [Didacticas electronicas](https://www.didacticaselectronicas.com/index.php/sensores/presion-atm/sensor-de-presión-ms5803-14ba-barómetro-7190-detail)
 
+*** PCB Fabrication | Fabricación de PCB 
+
+CIGA: www.ciga.cl
+
+MCI Fabricación de PCB: https://www.mcielectronics.cl/en_US/page/fabricacion-de-pcb
+
+
+
+
+
 ***
 
 The internet is full of blogs with useful information. 
