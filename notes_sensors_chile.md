@@ -30,7 +30,7 @@ CIGA: www.ciga.cl
 
 MCI Fabricación de PCB: https://www.mcielectronics.cl/en_US/page/fabricacion-de-pcb
 
-
+Open-source PCB Cad program: www.kicad-pcb.org
 
 
 
