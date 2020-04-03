@@ -16,6 +16,8 @@ Arduino:
 
 In Valpo: https://www.zambeca.cl/
 
+www.poirot.cl has equipment for PCB fabrication, rework stations, etc.
+
 Various sensors:
 
 *	aliexpress
