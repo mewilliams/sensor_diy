@@ -14,6 +14,8 @@ Arduino:
 *	[Mouser.cl](mouser.cl) - these prices are in USD.
 * [Mechtronics Store](www.mechatronicstore.cl)
 
+In Valpo: https://www.zambeca.cl/
+
 Various sensors:
 
 *	aliexpress
