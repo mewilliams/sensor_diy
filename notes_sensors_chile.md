@@ -18,6 +18,12 @@ In Valpo: https://www.zambeca.cl/
 
 www.poirot.cl has equipment for PCB fabrication, rework stations, etc.
 
+http://www.grenelectronic.cl/
+
+https://makerschile.cl/
+
+https://cl.rsdelivers.com/
+
 Various sensors:
 
 *	aliexpress
