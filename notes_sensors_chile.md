@@ -5,18 +5,18 @@ Soldering iron in Spanish: cautín.
 
 
 
-Where to get parts for DIY sensors in Chile?
+Where to get parts for Arduino, PCB, sensores, etc. in Chile? | Donde comprar cosas para Arduino, PCB, sensores, etc. en Chile?
 
-Atlas Scientific: via [Caleuche Tecnologias](http://www.caleuchetecnologias.cl/index.html)
+Atlas Scientific (conductivity sensor) Chilean distributer is [Caleuche Tecnologias](http://www.caleuchetecnologias.cl/index.html)
 
-Arduino: 
+Arduinos: 
 *	[MCI Electronics](www.mcielectronics.cl/) - with a location in Viña del Mar (Avenida Viana).
-*	[Mouser.cl](mouser.cl) - these prices are in USD.
+*	[Mouser.cl](mouser.cl) - Prices listed in USD, international company that will ship to Chile. 
 * [Mechtronics Store](www.mechatronicstore.cl)
+* https://www.zambeca.cl/ - Valparaiso hobby robotics store. 
 
-In Valpo: https://www.zambeca.cl/
-
-www.poirot.cl has equipment for PCB fabrication, rework stations, etc.
+Fabrication, PCBs, soldering
+* www.poirot.cl has equipment for PCB fabrication, rework stations, etc.
 
 http://www.grenelectronic.cl/
 
