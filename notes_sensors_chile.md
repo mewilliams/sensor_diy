@@ -133,6 +133,9 @@ The Atlas Scientific K1.0: [datasheet here](https://www.atlas-scientific.com/_fi
 
 [Vimaroni](http://www.vimaroni.cl/home/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=738&virtuemart_category_id=48)
 
+
+http://interlab.cl/std.html
+
 **Turbidity standards**
 
 See Hanna Chile link in Conducitivy standards above, I think (for TDS, but not in NTU).
